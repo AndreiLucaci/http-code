@@ -1,0 +1,25 @@
+{
+  "name": "http-sts",
+  "version": "1.0.0",
+  "description": "HTTP status codes",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "prepublish": "tsc",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreiLucaci/http-code.git"
+  },
+  "keywords": [],
+  "author": "Andrei Lucaci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndreiLucaci/http-code/issues"
+  },
+  "homepage": "https://github.com/AndreiLucaci/http-code#readme",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  }
+}
