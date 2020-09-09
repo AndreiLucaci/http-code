@@ -12,7 +12,14 @@
     "type": "git",
     "url": "git+https://github.com/AndreiLucaci/http-sts.git"
   },
-  "keywords": [],
+  "keywords": [
+    "http status codes",
+    "http",
+    "status",
+    "codes",
+    "MDN",
+    "MDN status codes"
+  ],
   "author": "Andrei Lucaci",
   "license": "MIT",
   "bugs": {
