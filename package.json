@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndreiLucaci/http-code.git"
+    "url": "git+https://github.com/AndreiLucaci/http-sts.git"
   },
   "keywords": [],
   "author": "Andrei Lucaci",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AndreiLucaci/http-code/issues"
+    "url": "https://github.com/AndreiLucaci/http-sts/issues"
   },
-  "homepage": "https://github.com/AndreiLucaci/http-code#readme",
+  "homepage": "https://github.com/AndreiLucaci/http-sts#readme",
   "dependencies": {
-    "typescript": "^4.0.2"
+    "typescript": "^3.7.5"
   }
 }
