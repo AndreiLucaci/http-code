@@ -1,4 +1,14 @@
-# http-sts: HTTP status codes mapper from MDN HTTP status codes
+# http-sts
+
+HTTP status codes mapper from MDN HTTP status codes
+
+## package health
+
+[![Build Status](https://travis-ci.com/AndreiLucaci/http-sts.svg?branch=master)](https://travis-ci.com/AndreiLucaci/http-sts)
+[![GitHub version](https://badge.fury.io/gh/andreilucaci%2Fhttp-sts.svg)](https://badge.fury.io/gh/andreilucaci%2Fhttp-sts)
+[![npm version](https://badge.fury.io/js/http-sts.svg)](https://badge.fury.io/js/http-sts)
+
+[![NPM](https://nodei.co/npm/http-sts.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/http-sts/)
 
 ## Motivation
 
